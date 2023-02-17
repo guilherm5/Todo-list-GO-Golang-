@@ -1,6 +1,6 @@
 # TodoList 
 
-![Exemplo de como usar](http://g.recordit.co/ixoCGah8to.gif)
+![Exemplo de como usar](img/gif.gif)
 
 ## Functionality:
 - [x] Create Task
