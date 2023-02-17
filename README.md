@@ -1,6 +1,6 @@
 # TodoList 
 
-![Alt Text](http://g.recordit.co/ixoCGah8to.gif)
+![Exemplo de como usar](http://g.recordit.co/ixoCGah8to.gif)
 
 ## Functionality:
 - [x] Create Task
@@ -10,6 +10,17 @@
 - [x] Get Task
 - [x] Routes authenticated with oauth2
 - [x] MVC pattern project
+
+
+## Technologies used:
+- [x] Golang
+- [x] Gin Framework
+- [x] ORM Gorm
+- [x] Postgresql
+- [x] Oauth2
+- [x] .env
+
+
 
 ## :rocket: install and run
 ### prerequisites
