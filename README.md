@@ -21,7 +21,6 @@
 - [x] .env
 
 
-
 ## :rocket: install and run
 ### prerequisites
 
