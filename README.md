@@ -9,7 +9,6 @@
 - [x] Delete Task
 - [x] Get Task
 - [x] Routes authenticated with oauth2
-- [x] MVC pattern project
 
 
 ## Technologies used:
